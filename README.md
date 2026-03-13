@@ -1,2 +1,1 @@
-# AI-Revenue-Analyst-System
-![Demo](LOLO.gif)
+# Coming Soon Yeah
